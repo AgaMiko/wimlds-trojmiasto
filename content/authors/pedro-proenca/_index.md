@@ -41,7 +41,6 @@ education:
     year: 2011
 
 # Social/Academic Netw - Team
-orking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
@@ -71,7 +70,7 @@ email: "pproenxa@gmail.com"
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Detect waste
- 
+
 ---
 Computer vision wizard and surfer from Portugal. Currently, I am working as a Research Fellow for the [Future AI and Robotics for Space Hub](https://www.fairspacehub.org/), developing visual perception methods for on-orbit robotic operations. I did my PhD on Probabilistic Visual Odometry using RGB-D and Geometric primitives for Man-made Environments.
 
