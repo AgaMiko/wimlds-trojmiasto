@@ -34,8 +34,7 @@ interests:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pa - Mentors
-ck: fas
+  icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
