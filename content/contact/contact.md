@@ -15,7 +15,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
   form:
     provider: netlify
@@ -29,4 +29,14 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+## Wimlds POLAND on Linkedin :
+
+Team Trójmiasto & Team Poznań on Linkedin
+https://www.linkedin.com/company/women-in-machine-learning-data-science-poland
+
+## Team 3miasto:
+Find Us on Slack and join to chapter Trójmiasto :
+wimlds-pl.slack.com
+
+Or find US on Meetup
+https://www.meetup.com/pl-PL/Trojmiasto-Women-in-Machine-Learning-and-Data-Science
