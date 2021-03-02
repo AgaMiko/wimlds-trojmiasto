@@ -1,7 +1,6 @@
 ---
-title: Example Event
-
-event: "Data manipulation in R" workshop
+title: "Example Event"
+event: Data manipulation in R workshop
 event_url: https://www.meetup.com/pl-PL/Trojmiasto-Women-in-Machine-Learning-and-Data-Science
 
 location: Online
